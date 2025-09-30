@@ -1,5 +1,5 @@
 # AndroidLab3
-![](docs/image%20copy.png)
+![](docs/image.png)
 ## Overview
 AndroidLab3 is an Android application project designed to demonstrate various Android development concepts. The project includes examples of custom adapters, layouts, and other Android components.
 
